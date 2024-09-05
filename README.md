@@ -3,6 +3,8 @@
 - College - IIT Kharagpur
 - Roll Number - 21CH30006
 - Email - anupriyarajiitkgp@gmail.com
+- Department - Chemical Engineering
+- Deployed URL - https://let-s-chat-nine.vercel.app/
 
 ## System Design / Tech Stack used
 
